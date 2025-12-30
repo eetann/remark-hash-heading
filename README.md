@@ -1,3 +1,7 @@
+<p align="center">
+    <a href="https://www.npmjs.com/package/remark-hash-heading"><img src="https://img.shields.io/npm/v/remark-hash-heading?color=CB0200" alt="link to npm.js" /></a>
+</p>
+
 # remark-hash-heading
 
 A [remark](https://github.com/remarkjs/remark) plugin to add hash symbols to headings.
@@ -74,7 +78,3 @@ export default defineConfig({
   },
 });
 ```
-
-## License
-
-MIT
