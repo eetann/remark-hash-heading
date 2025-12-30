@@ -5,8 +5,8 @@ Use Bun instead of Node.js/npm/yarn/pnpm.
 ## Scripts
 
 ```sh
-bun run lint       # Run linter (Biome)
-bun run format     # Format code (Biome)
+bun run lint       # Run linter (oxlint)
+bun run format     # Format code (oxfmt)
 bun run typecheck  # Type check
 bun run test       # Run tests
 bun run build      # Build for production
@@ -33,6 +33,6 @@ For more information, read the Bun API docs in `node_modules/bun-types/docs/**.m
 
 ## Code Quality
 
-- Format and lint using Biome (configured in `biome.jsonc`)
+- Format and lint using OXC
 - The project uses tab indentation and double quotes
 - **Use English for all comments and commit messages** 
